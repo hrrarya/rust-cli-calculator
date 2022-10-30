@@ -1,6 +1,6 @@
 # Rust CLI Calculator 
 
-This is my first Rust code, as I am learning rust from freecodecamp youtube channel, this is the video link [Rust Programming Course for Beginners - Tutorial](https://youtu.be/MsocPEZBd-M)
+This is my first Rust project. I am learning Rust from FreeCodeCamp youtube channel, Here is the video link [Rust Programming Course for Beginners - Tutorial](https://youtu.be/MsocPEZBd-M)
 
 ## What I learned 
 ### 1st Day
@@ -17,6 +17,7 @@ The follwing code will return the first variable values as it is, but the second
 
  - ##### Variable and function Type casting 
  - ##### value is wraped using single quote is ```char``` type and value wraped using double quote is ```String``` type.
+<hr>
 
  ### 2nd Day
  - ##### About Match Statement, This is like Switch statement.
